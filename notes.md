@@ -3,4 +3,4 @@
 
 ## 5-step Workflow Methodology:
 - Business Understanding and Problem Solving
--
+- Explotary Data analysis and D
