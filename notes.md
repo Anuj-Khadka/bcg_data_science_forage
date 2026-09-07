@@ -13,7 +13,8 @@
 
 
 
-Price sensitivity is the degree to which customer behaviors change in response to a change in price. In other words, how much do PowerCo’s customers react when prices go up?
+###Price sensitivity
+> the degree to which customer behaviors change in response to a change in price. In other words, how much do PowerCo’s customers react when prices go up?
 
 Sensitivity is often quantified using the price elasticity of demand formula which is [% change in quantity demanded / % change in price].
 
