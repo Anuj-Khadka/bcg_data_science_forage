@@ -19,3 +19,6 @@
 Sensitivity is often quantified using the price elasticity of demand formula which is `[% change in quantity demanded / % change in price]`.
 
 As a general rule, if the absolute value of the price elasticity of demand formula is greater than 1, the product or service would be considered elastic meaning that the price is very likely to influence how much people buy.
+
+`Price sensitivity` is the degree to which demand changes when the cost of a product or service changes.
+
