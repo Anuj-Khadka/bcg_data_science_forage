@@ -2,4 +2,4 @@
 > Statistics, mathematics, programming, communication
 
 ## 5-step Workflow Methodology:
-- Business Understan
+- Business Understanding 
