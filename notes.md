@@ -9,4 +9,4 @@
 - Insights and Recommendations
 
 ### Chrun
-> when customers leave to use anoth
+> when customers leave to use another 
