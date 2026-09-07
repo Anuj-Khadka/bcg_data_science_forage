@@ -9,4 +9,4 @@
 - Insights and Recommendations
 
 ### Chrun
-> when customers leave to use another ser
+> when customers leave to use another service 
