@@ -1,4 +1,4 @@
 ## 4 core skills of a Data Scientist - 
 > Statistics, mathematics, programming, communication
 
-Methodology
+5-step Workflow Methodology
