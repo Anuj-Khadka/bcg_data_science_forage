@@ -9,4 +9,4 @@
 - Insights and Recommendations
 
 ### Chrun
-> when customers lea
+> when customers leave 
