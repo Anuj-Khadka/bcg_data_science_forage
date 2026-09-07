@@ -6,4 +6,4 @@
 - Explotary Data analysis and Data Cleaning
 - Feature Engineering
 - Modeling and Evaluation
-- Insights and 
+- Insights and Reco
