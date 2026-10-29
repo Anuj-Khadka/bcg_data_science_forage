@@ -29,4 +29,4 @@ As a general rule, if the absolute value of the price elasticity of demand formu
 during `feature-engineering`, I merged using `.merge(diff)`. just doing that removed most of my data as without `how='left'`, rows with no price row would get dropped off silently. this is due to automatic inner join.
 
 
-re-running can be risky in the 
+re-running can be risky in the feature_engineering file just because you don't want to keep on merging the same data over and over again.
