@@ -26,4 +26,4 @@ As a general rule, if the absolute value of the price elasticity of demand formu
 
 
 
-during `feature-engineering`, I merged using `.merge(diff)`. just doing tha
+during `feature-engineering`, I merged using `.merge(diff)`. just doing that remo
