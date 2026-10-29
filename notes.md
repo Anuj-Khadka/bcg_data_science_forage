@@ -26,4 +26,4 @@ As a general rule, if the absolute value of the price elasticity of demand formu
 
 
 
-during `feature-engineering`, I merged using `.merge(diff)`. just doing that removed most of my data as without `how='left'`, rows with no price row would get dropped off silently. this is due to automatic 
+during `feature-engineering`, I merged using `.merge(diff)`. just doing that removed most of my data as without `how='left'`, rows with no price row would get dropped off silently. this is due to automatic i
